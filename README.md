@@ -26,7 +26,7 @@ This repository is divided into two major sections:
 │── ...
 │── Lab N
 
-Each folder contains the source code for the respective laboratory experiment along with any required input or output files (if applicable).
+Each folder contains the source code for the respective laboratory experiment along with any required input and output files.
 
 ---
 
@@ -89,11 +89,7 @@ The DAA section may include implementations of:
 
 Clone the Repository
 
-git clone https://github.com/your-username/your-repository.git
-
-Move into the repository
-
-cd your-repository
+git clone https://github.com/vedanta777/B125137
 
 ---
 
